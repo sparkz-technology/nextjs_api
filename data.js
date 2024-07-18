@@ -770,7 +770,7 @@ export const data = {
     Image:
       "https://boomshop.io/wp-content/uploads/2024/03/emotional-group-friends-using-mobile-phones-chatting-scaled.jpg",
   },
-  Cards: card,
+  // Cards: card,
   Footer: {
     Image: "https://boomshop.io/wp-content/uploads/2024/02/Logo-3.svg",
     Links: ["About", "Privacy Policy", "Licensing", "Contact"],
